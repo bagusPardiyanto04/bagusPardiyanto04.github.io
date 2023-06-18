@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-decoration: none;
+  }
+  body {
+    font-family: "Poppins", sans-serif;
+    background-color: var(--bg);
+    color: #fff;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: blueviolet; */
+    /* min-height: 5000px; */
+  }
+  .navbar{
+    width: 1100px;
+    display: flex;
+    justify-content: space-between;
+    margin:auto;
+    background-color: blue;
+    /* padding: 1.4rem 7%; */
+    margin: 0 auto;
+  }
